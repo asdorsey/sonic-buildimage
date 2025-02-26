@@ -149,12 +149,6 @@
             },
             {
                 "name": "Temp sensor 4"
-            },
-            {
-                "name": "Temp sensor 5"
-            },
-            {
-                "name": "Temp sensor 6"
             }
         ],
         "sfps": [
